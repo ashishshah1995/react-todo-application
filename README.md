@@ -1,16 +1,16 @@
+# Live version of the application
+
+`Link` - https://ashish-react-todo-app.herokuapp.com/
+
 # About
 
-The application is a Todo list that makes delete, post, and get calls to jsonplaceholder.typicode's /todos api. The application shows understanding of 
+The application is a Todo list that makes delete, post, and get calls to jsonplaceholder.typicode's /todos api. Following has been used while building the application
 - Components, React basics
 - Libraries, Helpers classes
-- Used react-router-dom for routing
+- react-router-dom for routing
 - axios for making http requests
 - uuid temporaily used for creating unique ids on the fly
 - JSON Placeholder for mimicking server calls (API calls to https://jsonplaceholder.typicode.com/)
-
-# Live version of the application
-
-Link - https://ashish-react-todo-app.herokuapp.com/
 
 # Getting Started with Create React App
 
