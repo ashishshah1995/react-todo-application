@@ -8,7 +8,7 @@ The application is a Todo list that makes delete, post, and get calls to jsonpla
 - uuid temporaily used for creating unique ids on the fly
 - JSON Placeholder for mimicking server calls (API calls to https://jsonplaceholder.typicode.com/)
 
-# Checkout the live version of the application
+# Live version of the application
 
 Link - https://ashish-react-todo-app.herokuapp.com/
 
